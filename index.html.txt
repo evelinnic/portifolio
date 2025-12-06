@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+ <html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Portfólio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Meu Portfólio</h1>
+    <p>Trabalho de Projetos – 2025</p>
+  </header>
+
+  <section>
+    <h2>Sobre mim</h2>
+    <p>Meu nome é Evelin, estutande da ecit prata, do segundo ano do ensino médio.<p>
+  </section>
+
+  <section>
+    <h2>O que eu aprendi</h2>
+      <p>eu aprendi sobre a segurança de dados, como identificar quando alguma mensagem pode ser um golpe.<p>
+      <p>também aprendi um pouco sobre o Java, e como usar em um site.<p>
+      <p>aprendi também, sobre inteligência artificial e banco de dados com o outro professor.<p>
+      
+  </section>
+
+  <section>
+    <h2>Como foi meu ano</h2>
+    <p>Durante o ano, aprendi coisas novas sobre tecnologia, trabalho em grupo, responsabilidade e criatividade.No geral, eu gostei bastante, e me despertou ainda mais curiosidade sobre esse mundo de tecnologia.</p>
+  </section>
+
+  <section>
+    <h2>Contato</h2>
+    <p>Email: evelinnicolegcosta@gmail.com.com</p>
+    <p>Telefone: 83 98875-0873
+  </section>
+</body>
+</html>
